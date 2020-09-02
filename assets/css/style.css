@@ -59,6 +59,7 @@ p {
     background-position: center;
 }
 
+/* There's got to be a better way to do these float setups for the 2 below than these ids, but i'm not sure yet what it is. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -101,6 +102,8 @@ p {
     color: #ffffff;
 }
 
+/* 3 items above here can all be grouped together with a single class */
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,6 +118,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* 3 items above here can all be grouped together with a single class */
 
 .benefit-lead img {
     display: block;
@@ -133,6 +138,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* 3 items above here can all be grouped together with a single class */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,6 +168,8 @@ p {
     color: #ffffff;
 }
 
+/* 3 items above here can all be grouped together with a single class */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +181,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* 3 items above here can all be grouped together with a single class */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -187,6 +198,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* 3 items above here can all be grouped together with a single class */
 
 .footer {
     padding: 30px;
