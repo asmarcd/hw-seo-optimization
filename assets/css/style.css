@@ -80,7 +80,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2A607C;
     color: #ffffff;
 }
@@ -101,7 +101,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
     background-color: #2A607C;
 }
 
@@ -110,7 +110,7 @@ p {
     color: #ffffff;
 }
 
-.benefits h3 {s
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -128,6 +128,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
